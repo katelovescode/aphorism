@@ -20,7 +20,27 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+`> aphorism`
+
+For extra joy:
+
+```
+> gem install lolcat aphorism
+> aphorism | lolcat
+```
+
+![demo image of aphorisms being populated in rainbow colors](https://raw.githubusercontent.com/katelovescode/aphorism/master/lolcatdemo.png)
+
+### Add more aphorisms
+
+```
+$ which aphorism
+/path/to/bin/aphorism
+cd /path/to/lib/content
+[text editor of choice open command] aphorisms.txt
+```
+
+Add new content, separating each aphorism from the prior entry with a `%` symbol on a newline.
 
 ## Development
 
