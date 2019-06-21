@@ -5,10 +5,9 @@ module Aphorism
   class Error < StandardError; end
   class Orator
     def say
-      aphorism_path = File.join(__dir__, 'source/quotes.txt')
-      aphorism = File.open(aphorism_path)
-      binding.pry
-      puts aphorism
+      aphorisms_path = File.join(__dir__, 'source/quotes.txt')
+      aphorisms = IO.read(aphorisms_path).split("\n%\n")
+      puts aphorisms.sample
     end
   end
 end
