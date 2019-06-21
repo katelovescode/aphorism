@@ -3,7 +3,8 @@ RSpec.describe Aphorism do
     expect(Aphorism::VERSION).not_to be nil
   end
 
-  it "does something useful" do
-    expect(false).to eq(true)
+  let(:orator) { Aphorism::Orator.new }
+  it "returns a statement" do
+    expect { orator.say }.to output(String).to_stdout
   end
 end
