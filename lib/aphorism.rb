@@ -2,5 +2,9 @@ require "aphorism/version"
 
 module Aphorism
   class Error < StandardError; end
-  # Your code goes here...
+  class Orator
+    def say_hello
+      echo "Hello World!"
+    end
+  end
 end

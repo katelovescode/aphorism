@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'aphorism'
+
+orator = Aphorism::Orator.new
+orator.say_hello
