@@ -1,7 +1,11 @@
-require "aphorism/version"
+# frozen_string_literal: true
+
+require 'aphorism/version'
 
 module Aphorism
   class Error < StandardError; end
+
+  # displays aphorisms
   class Orator
     def say
       aphorisms = internal_aphorisms + custom_aphorisms
