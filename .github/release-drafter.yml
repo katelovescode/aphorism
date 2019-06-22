@@ -1,4 +1,4 @@
-name-template: 'v$NEXT_PATCH_VERSION 🌈'
+name-template: ' 🧙🏼‍🌈'
 tag-template: 'v$NEXT_PATCH_VERSION'
 change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
 template: |
