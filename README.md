@@ -34,13 +34,11 @@ For extra joy:
 ### Add more aphorisms
 
 ```
-$ which aphorism
-/path/to/bin/aphorism
-cd /path/to/lib/content
-[text editor of choice open command] aphorisms.txt
+mkdir $HOME/.aphorism
+touch $HOME/.aphorism/my_category.txt
 ```
 
-Add new content, separating each aphorism from the prior entry with a `%` symbol on a newline.
+Add new content to any number of `.txt` files in your `$HOME/.aphorism` directory, separating each aphorism from the prior entry with a `%` symbol on a newline.
 
 ## Development
 
