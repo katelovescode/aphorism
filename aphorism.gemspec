@@ -18,7 +18,7 @@ Gem::Specification.new do |spec|
 
   # inspired by the bundler gem's files list
   spec.files = Dir.glob("{lib,exe}/**/*", File::FNM_DOTMATCH).reject {|f| File.directory?(f) }
-  spec.files += %w[CHANGELOG.md LICENSE.txt README.md]
+  spec.files += %w[CODE_OF_CONDUCT.md LICENSE.txt README.md]
   spec.bindir        = "exe"
   spec.executables   = spec.files.grep(%r{^exe/}) { |f| File.basename(f) }
   spec.require_paths = ["lib"]
