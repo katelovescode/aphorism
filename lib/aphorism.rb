@@ -1,5 +1,4 @@
 require "aphorism/version"
-require "pry"
 
 module Aphorism
   class Error < StandardError; end
