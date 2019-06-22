@@ -17,8 +17,8 @@ Gem::Specification.new do |spec|
   spec.metadata["changelog_uri"] = "https://github.com/katelovescode/aphorism/releases"
 
   # inspired by the bundler gem's files list
-  s.files = Dir.glob("{lib,exe}/**/*", File::FNM_DOTMATCH).reject {|f| File.directory?(f) }
-  s.files += %w[CHANGELOG.md LICENSE.txt README.md]
+  spec.files = Dir.glob("{lib,exe}/**/*", File::FNM_DOTMATCH).reject {|f| File.directory?(f) }
+  spec.files += %w[CHANGELOG.md LICENSE.txt README.md]
   spec.bindir        = "exe"
   spec.executables   = spec.files.grep(%r{^exe/}) { |f| File.basename(f) }
   spec.require_paths = ["lib"]
