@@ -38,7 +38,7 @@ mkdir $HOME/.aphorism
 touch $HOME/.aphorism/my_category.txt
 ```
 
-Add new content to any number of `.txt` files in your `$HOME/.aphorism` directory, separating each aphorism from the prior entry with a `%` symbol on a newline.
+Add new content to any number of `.txt` files in your `$HOME/.aphorism` directory, separating each aphorism from the prior entry with a `%` symbol on a newline.  Feel free to use spacing and newlines and tabs as you see fit for formatting; the gem will respect your spacing.
 
 ## Development
 
