@@ -22,7 +22,10 @@ module Aphorism
     def custom_aphorisms
       custom_path = File.join(Dir.home, '.aphorism')
       return unless File.directory?(custom_path)
-      custom_files = Dir.entries(custom_path).select! { |file| file.include?(".txt")}
+
+      custom_files = Dir.entries(custom_path).select! do |file|
+        file.include?('.txt')
+      end
       custom_aphorisms = []
       custom_files.each do |file|
         custom_aphorisms += IO.read(File.join(custom_path, file)).split("\n%\n")
