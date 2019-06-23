@@ -21,6 +21,7 @@ module Aphorism
 
     def custom_aphorisms
       custom_path = File.join(Dir.home, '.aphorism')
+      return unless File.directory?(custom_path)
       custom_files = Dir.entries(custom_path) - ['.', '..']
       custom_aphorisms = []
       custom_files.each do |file|
