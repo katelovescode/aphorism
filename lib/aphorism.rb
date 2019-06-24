@@ -21,7 +21,7 @@ module Aphorism
 
     def custom_aphorisms
       custom_path = File.join(Dir.home, '.aphorism')
-      return unless File.directory?(custom_path)
+      return [] unless File.directory?(custom_path)
 
       custom_files = Dir.entries(custom_path).select! do |file|
         file.include?('.txt')
