@@ -140,7 +140,7 @@
 %
 "When you embrace your difference, your DNA, your look or heritage or religion or your unusual name, that's when you start to shine." - Bethenny Frankel
 %
-"You can't be that kid standing at the top of the waterslide, overthinking it. You have to go down the chute." - Tina Fey  
+"You can't be that kid standing at the top of the waterslide, overthinking it. You have to go down the chute." - Tina Fey
 %
 "If you just set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing." - Margaret Thatcher
 %
@@ -222,12 +222,12 @@ But from the moment I had voiced my trans identity that first night, every step 
 %
 "I hadn't been happy in so long. I've been sad again since, but it's a totally different take on sad. There's just some magic in truth and honesty and openness." - Frank Ocean, musician
 %
-"The tide of history only advances when people make themselves fully visible." - Anderson Cooper, journalist and TV . e are powerful because we have survived." - Audre Lorde
- - Jameela Jamil%
+"The tide of history only advances when people make themselves fully visible." - Anderson Cooper, journalist and TV host
+%
+"We are powerful because we have survived." - Audre Lorde
+%
 "To be afraid is to behave as if the truth were not true." - Bayard Rustin
 %
-%
-
 "Marriage is a magic word. And it is magic throughout the world. It has to do with our dignity as human beings, to be who we are openly." — Edie Windsor
 %
 "You don't have to live a lie. Living a lie will mess you up. It will send you into depression. It will warp your values." — Gilbert Baker, creator of the rainbow Pride flag
@@ -266,7 +266,7 @@ But from the moment I had voiced my trans identity that first night, every step 
 %
 "I don't know any more about the future than you do. I hope that it will be full of work, because I have come to know by experience that work is the nearest thing to happiness that I can find." - Zora Neale Hurston
 %
-"Nothing is worth more than laughter. It is strength to laugh and to abandon oneself, to be light. Tragedy is the most ridiculous thing." - Frida Kahlo 
+"Nothing is worth more than laughter. It is strength to laugh and to abandon oneself, to be light. Tragedy is the most ridiculous thing." - Frida Kahlo
 %
 "Culture does not make people. People make culture. If it is true that the full humanity of women is not our culture, then we can and must make it our culture." - Chimamanda Ngozi Adichie's, We Should All Be Feminists
 %
