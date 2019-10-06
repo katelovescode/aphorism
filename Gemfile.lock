@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    aphorism (1.0.0)
+    aphorism (1.1.0)
 
 GEM
   remote: https://rubygems.org/
