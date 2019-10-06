@@ -9,7 +9,7 @@ module Aphorism
   class Orator
     def say
       aphorisms = internal_aphorisms + custom_aphorisms
-      puts aphorisms.sample
+      aphorisms.sample
     end
 
     private
