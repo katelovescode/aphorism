@@ -2,7 +2,11 @@
 
 Aphorism is a gem in the vein of `fortune` that returns random customizable aphorisms.
 
-## Installation
+## Quick Install
+
+Wanna run aphorism in your terminal right away?  Clone this repo and run `sh install.sh` from the project root.
+
+## Installation in a Ruby application using bundler
 
 Add this line to your application's Gemfile:
 
