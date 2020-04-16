@@ -9,7 +9,7 @@ if which ruby >/dev/null 2>&1; then
     aphorism | lolcat
   else
     echo "initializing aphorism with lolcat"
-    gem install bundler aphorism lolcat --silent
+    gem install --user-install bundler aphorism lolcat --silent
     aphorism | lolcat
   fi
 else
