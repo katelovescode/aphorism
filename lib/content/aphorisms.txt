@@ -46,8 +46,6 @@
 %
 "No matter how difficult and painful it may be, nothing sounds as good to the soul as the truth." - Martha Beck
 %
-"Done is better than perfect." - Sheryl Sandberg
-%
 "One of the secrets to staying young is to always do things you don't know how to do, to keep learning." - Ruth Reichl
 %
 "Be first and be lonely." - Ginni Rometty
@@ -66,8 +64,6 @@
 %
 "What you do makes a difference, and you have to decide what kind of difference you want to make." - Jane Goodall
 %
-"I firmly believe you never should spend your time being the former anything." - Condoleezza Rice
-%
 "I may be wearing makeup, but I can throw a fastball by you at the same time." - Jennie Finch
 %
 "A good compromise is one where everybody makes a contribution." - Angela Merkel
@@ -79,6 +75,8 @@
 "Drama is very important in life: You have to come on with a bang. You never want to go out with a whimper." - Julia Child
 %
 "If your home environment is good and peaceful and easy, your life is better and easier." - Lori Greiner
+%
+So if you leave with only one thing you leave with, it must be this: choose to fight only righteous fights, because then when things get tough – and they will – you will know that there is only option ahead of you: nevertheless, you must persist. - Elizabeth Warren
 %
 "In order to be irreplaceable one must always be different." - Coco Chanel
 %
@@ -159,8 +157,6 @@
 "You have trust in what you think. If you splinter yourself and try to please everyone, you can't." - Annie Leibovitz
 %
 "If you find someone you love in your life, then hang on to that love." - Princess Diana
-%
-"We do not need magic to change the world, we carry all the power we need inside ourselves already: we have the power to imagine better." - J.K. Rowling
 %
 "When you're through changing, you're through." - Martha Stewart
 %
